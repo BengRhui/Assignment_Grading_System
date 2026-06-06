@@ -6,13 +6,13 @@ A mini coding project built during my free time that utilises Python to build a 
 *   User authentication
 
 ## Prerequisite for Execution
-*   Python 3.x environment
-*   Run the main script to execute the program!
+*   Ensure that the Python 3 environment is installed
+*   Run the `Main.py` script under `src/Code` to execute the program!
 
 ## System Architecture
 The project explores the concept of Object-Oriented Programming (OOP) principles in Python. 
 
-* **Language:** Python 3.x
+* **Language:** Python 3
 * **Design Paradigm:** Object-Oriented Programming (OOP)
 * **Data Storage:** JSON
 * **Interface:** Interactive Command-Line Interface (CLI)
